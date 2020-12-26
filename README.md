@@ -1,7 +1,7 @@
 <h1 align="center">I'm Harsh Bartariya👨‍💻</h1>
 <h3 align="center">Student/Computer_Science_Enthusiast😎 | Internshala Student Partner 19 ⚛️ | Java's Debuger <img src=https://emojis.slackmojis.com/emojis/images/1537919064/4717/java_loading.jpg?1537919064 alt=java style="margin-bottom: 0px;" /></h3>
 
-<img align="right" alt="GIF" src="" width="400px" />
+<img align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" width="400px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
