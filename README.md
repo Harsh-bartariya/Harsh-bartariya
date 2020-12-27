@@ -1,5 +1,5 @@
 <h1 align="center">I'm Harsh Bartariya👨‍💻</h1>
-<h3 align="center">Student/Computer_Science_Enthusiast😎 | Internshala Student Partner 19 ⚛️ | Java's Debuger <img src=https://emojis.slackmojis.com/emojis/images/1537919064/4717/java_loading.jpg?1537919064 alt=java " /></h3>
+<h3 align="center">Student/Computer_Science_Enthusiast😎 | Internshala Student Partner 19 ⚛️ | Java's Debugger <img src=https://emojis.slackmojis.com/emojis/images/1537919064/4717/java_loading.jpg?1537919064 alt=java " /></h3>
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" width="400px" />
 
