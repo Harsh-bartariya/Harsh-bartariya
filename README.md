@@ -20,9 +20,9 @@
 
 - ⚡ Fun fact **I am an Exception, you can't catch**
 
--  😉 Check my [Codechef](https://www.codechef.com/users/v_machine_786) website here.
+-  😉 Check my [Codechef](https://www.codechef.com/users/v_machine_786) profile here.
 
--  😉 Check my [Hackerrank](https://www.hackerrank.com/Harshmachine7861) website here.
+-  😉 Check my [Hackerrank](https://www.hackerrank.com/Harshmachine7861) profile here.
 
 ### Spotify Playing 🎧
 
