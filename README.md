@@ -40,13 +40,12 @@ harsh@github:~$ neofetch
  ██║  ██║    ─────────────────────────────
  ███████║    OS        : Developer OS v2026
  ██╔══██║    Role      : Software Developer
- ██║  ██║    Building  : PHP &amp; Python apps
- ╚═╝  ╚═╝    Learning  : APIs · AI · LLMs
-             Ask me    : Java · C
-             Badge     : Internshala ISP '19
-             Goal      : Ship open-source 🚀
-             Uptime    : Coding since forever
-             Exception : Uncatchable 😎
+ ██║  ██║    Building  : FastAPI &amp; Python apps
+ ╚═╝  ╚═╝    Learning  : APIs · AI&amp;ML · LLMs
+             Ask me    : Python · Java · C++
+             Badge     : Harsh.bartariya/credly{https://www.credly.com/users/harsh-bartariya/badges/credly}
+             Goal      : Ship open-source🚀| Making Tech easier for people🤖 
+             Research Interest🔭 : LLM Models, Recommender systems, token optimization📚📡🔎😎
 </pre>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -61,11 +60,12 @@ harsh@github:~$ neofetch
 
 | | |
 |---|---|
-| 🔭 **Currently working on** | PHP & Python projects |
+| 🔭 **Currently working on** | GEN-AI and ML Python projects |
 | 🌱 **Currently learning** | REST APIs, Generative AI, LLM apps |
+| 👯 **Worked on** | Java, PHP and JS |
 | 👯 **Open to** | Collaborations & interesting opportunities |
 | 🧠 **Problem solving** | [CodeChef](https://www.codechef.com/users/v_machine_786) · [HackerRank](https://www.hackerrank.com/Harshmachine7861) |
-| 💬 **Ask me about** | Java, C, backend development |
+| 💬 **Ask me about** | Python, Java/C++, backend development |
 | ⚡ **Fun fact** | I am an *Exception*, you can't `catch` me |
 
 </details>
