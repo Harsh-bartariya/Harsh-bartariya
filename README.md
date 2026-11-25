@@ -74,27 +74,38 @@ harsh@github:~$ neofetch
 
 ## `$ ls ~/skills`
 
-<div align="center">
-<table>
+<table align="center">
   <tr>
-    <th>💻 Languages</th><th>🌐 Frontend</th><th>⚙️ Backend &amp; APIs</th><th>🗄️ Databases</th><th>🤖 AI / LLM</th><th>🧰 Tools</th>
+    <td><b>💻 Languages</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,php,python,js&theme=dark" /><img src="https://skillicons.dev/icons?i=java,c,php,python,js&theme=light" height="40" alt="Languages" /></picture></td>
   </tr>
   <tr>
-    <td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,php,python,js&perline=3&theme=dark" /><img src="https://skillicons.dev/icons?i=java,c,php,python,js&perline=3&theme=light" alt="Languages" /></picture></td>
-    <td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react&perline=2&theme=dark" /><img src="https://skillicons.dev/icons?i=html,css,react&perline=2&theme=light" alt="Frontend" /></picture></td>
-    <td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postman&perline=2&theme=dark" /><img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postman&perline=2&theme=light" alt="Backend" /></picture></td>
-    <td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,mongodb&perline=1&theme=dark" /><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=1&theme=light" alt="Databases" /></picture></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hugging%20Face-1E3A8A?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" /><br />
-      <img src="https://img.shields.io/badge/LangChain-1E3A8A?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /><br />
-      <img src="https://img.shields.io/badge/Gemini-1E3A8A?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /><br />
-      <img src="https://img.shields.io/badge/Ollama-1E3A8A?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /><br />
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-1E3A8A?style=flat-square&logo=openaigym&logoColor=white" alt="Prompt Engineering" />
+    <td><b>🌐 Frontend</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react&theme=dark" /><img src="https://skillicons.dev/icons?i=html,css,react&theme=light" height="40" alt="Frontend" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend &amp; APIs</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postman&theme=dark" /><img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql,postman&theme=light" height="40" alt="Backend" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" height="40" alt="Databases" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI / LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hugging%20Face-1E3A8A?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LangChain-1E3A8A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Gemini-1E3A8A?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Ollama-1E3A8A?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-1E3A8A?style=for-the-badge&logo=openaigym&logoColor=white" alt="Prompt Engineering" />
     </td>
-    <td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,bash,linux&perline=3&theme=dark" /><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux&perline=3&theme=light" alt="Tools" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>🧰 Tools</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,bash,linux&theme=dark" /><img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux&theme=light" height="40" alt="Tools" /></picture></td>
   </tr>
 </table>
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
@@ -103,38 +114,18 @@ harsh@github:~$ neofetch
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-bartariya/Harsh-bartariya/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="https://raw.githubusercontent.com/Harsh-bartariya/Harsh-bartariya/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Skyline" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Skyline" />
 </picture>
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harsh-bartariya&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=E6EDF3&ring_color=1D4ED8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harsh-bartariya&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFFFFF&title_color=1E3A8A&icon_color=1D4ED8&text_color=1F2328&ring_color=1E3A8A" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-bartariya&layout=donut-vertical&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E6EDF3" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-bartariya&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=1E3A8A&text_color=1F2328" alt="Top Languages" />
-</picture>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Harsh-bartariya&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E&ring_color=3B82F6" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-bartariya&layout=donut-vertical&langs_count=6&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E" alt="Top Languages" />
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Harsh-bartariya&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=9CA3AF&card_width=800" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=Harsh-bartariya&hide_border=true&background=FFFFFF&ring=1E3A8A&fire=1D4ED8&currStreakLabel=1E3A8A&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76&card_width=800" alt="GitHub Streak" />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-bartariya&theme=github_dark" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-bartariya&theme=default" alt="Contribution Summary" />
-</picture>
-
-<br /><br />
-
-<img width="100%" src="https://ghchart.rshah.org/1E3A8A/Harsh-bartariya" alt="Contribution Chart" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Harsh-bartariya&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&card_width=800" alt="GitHub Streak" />
 
 <br /><br />
 
