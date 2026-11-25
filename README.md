@@ -64,7 +64,7 @@ harsh@github:~$ neofetch
 | 🌱 **Currently learning** | REST APIs, Generative AI, LLM apps |
 | 👯 **Worked on** | Java, PHP and JS |
 | 👯 **Open to** | Collaborations & interesting opportunities |
-| 🧠 **Problem solving** | [CodeChef](https://www.codechef.com/users/v_machine_786) · [HackerRank](https://www.hackerrank.com/Harshmachine7861) |
+| 🧠 **Problem solving** | [CodeChef](https://www.codechef.com/users/v_machine_786) · [HackerRank](https://www.hackerrank.com/Harshmachine7861) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/firsttry786new) |
 | 💬 **Ask me about** | Python, Java/C++, backend development |
 | ⚡ **Fun fact** | I am an *Exception*, you can't `catch` me |
 
