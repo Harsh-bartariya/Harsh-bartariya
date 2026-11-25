@@ -113,12 +113,6 @@ harsh@github:~$ neofetch
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Skyline" />
-</picture>
-
-<br /><br />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harsh-bartariya&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E&ring_color=3B82F6" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-bartariya&layout=donut-vertical&langs_count=6&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E" alt="Top Languages" />
