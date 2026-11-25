@@ -5,8 +5,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&height=50&lines=%3E+Initializing+Harsh.exe+...;%3E+PHP+%7C+Python+%7C+Java+%7C+C;%3E+Building+with+APIs+%26+AI+%F0%9F%A4%96;%3E+throw+new+Exception(%22Can't+catch+me%22)%3B" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=1E3A8A&center=true&vCenter=true&width=700&height=50&lines=%3E+Initializing+Harsh.exe+...;%3E+PHP+%7C+Python+%7C+Java+%7C+C;%3E+Building+with+APIs+%26+AI+%F0%9F%A4%96;%3E+throw+new+Exception(%22Can't+catch+me%22)%3B" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=800&height=50&lines=%3E+Hi%2C+I'm+Harsh+Bartariya+%F0%9F%91%8B;%3E+Python+%7C+ReactJS+%7C+Java+%7C+C%2B%2B;%3E+Building+APIs+%26+Integrating+LLM%2FAI+Models+%F0%9F%A4%96;%3E+Interested+in+building+things+that+make+life+easier" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=1E3A8A&center=true&vCenter=true&width=800&height=50&lines=%3E+Hi%2C+I'm+Harsh+Bartariya+%F0%9F%91%8B;%3E+Python+%7C+ReactJS+%7C+Java+%7C+C%2B%2B;%3E+Building+APIs+%26+Integrating+LLM%2FAI+Models+%F0%9F%A4%96;%3E+Interested+in+building+things+that+make+life+easier" alt="Typing SVG" />
   </picture>
 </p>
 
