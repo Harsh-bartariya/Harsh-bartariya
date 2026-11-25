@@ -43,7 +43,7 @@ harsh@github:~$ neofetch
  ██║  ██║    Building  : FastAPI &amp; Python apps
  ╚═╝  ╚═╝    Learning  : APIs · AI&amp;ML · LLMs
              Ask me    : Python · Java · C++
-             Badge     : Harsh.bartariya/credly{https://www.credly.com/users/harsh-bartariya/badges/credly}
+             Badges     : <a href="https://www.credly.com/users/harsh-bartariya/badges">credly/harsh-bartariya</a> 🏅
              Goal      : Ship open-source🚀| Making Tech easier for people🤖 
              Research Interest🔭 : LLM Models, Recommender systems, token optimization📚📡🔎😎
 </pre>
